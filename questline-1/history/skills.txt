@@ -1,4 +1,8 @@
-Linux
-Git
-Python
-Cybersecurity
+# Create and write to skills.txt
+echo "Python, C++, Problem Solving" > skills.txt
+
+# Stage the file
+git add skills.txt
+
+# Commit the file
+git commit -m "Add skills.txt"
