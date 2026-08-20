@@ -4,7 +4,7 @@ A greedy algorithm makes the best available choice at each step with the goal of
 
 Problems Solved
 
-Lemonade Change Approach:
+1.Lemonade Change Approach:
 The customers pay with $5, $10, or $20, while the lemonade costs $5.
 
 I keep track of the number of $5 and $10 bills available.
@@ -13,7 +13,7 @@ If the customer gives $5, I keep it. If the customer gives $10, I give back one 
 
 Time Complexity: O(n) Space Complexity: O(1)
 
-Assign Cookies Approach:
+2.Assign Cookies Approach:
 I sort both the children's greed factors and the cookie sizes.
 
 I use two pointers:
