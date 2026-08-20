@@ -1,2 +1,4 @@
-# ACMRecruitment--Alandev-J-S-
-my name is alandev
+Linux
+Git
+Python
+Cybersecurity
