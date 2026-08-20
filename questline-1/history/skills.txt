@@ -1,0 +1,4 @@
+Linux
+Git
+Python
+Cybersecurity
