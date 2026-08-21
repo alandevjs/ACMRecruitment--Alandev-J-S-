@@ -6,3 +6,9 @@ git add README.md
 
 # Amend the last commit (keeps the same commit message or lets you update it)
 git commit --amend --no-edit
+
+## Skills
+Python
+Git
+Linux
+Cybersecurity
