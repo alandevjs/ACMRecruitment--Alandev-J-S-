@@ -1,0 +1,7 @@
+Directory Report
+================
+Total number of files: 3
+Total number of executable files: 0
+Largest file: /c/Users/aland/report-test/file2.txt
+Most recently modified file: /c/Users/aland/report-test/.hidden
+Number of hidden files: 1
